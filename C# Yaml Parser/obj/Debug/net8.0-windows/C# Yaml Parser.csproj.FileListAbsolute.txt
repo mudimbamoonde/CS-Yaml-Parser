@@ -1,0 +1,17 @@
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\bin\Debug\net8.0-windows\C# Yaml Parser.exe
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\bin\Debug\net8.0-windows\C# Yaml Parser.deps.json
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\bin\Debug\net8.0-windows\C# Yaml Parser.runtimeconfig.json
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\bin\Debug\net8.0-windows\C# Yaml Parser.dll
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\bin\Debug\net8.0-windows\C# Yaml Parser.pdb
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.csproj.GenerateResource.cache
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.AssemblyInfoInputs.cache
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.AssemblyInfo.cs
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.csproj.CoreCompileInputs.cache
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.dll
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\refint\C# Yaml Parser.dll
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.pdb
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.genruntimeconfig.cache
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\ref\C# Yaml Parser.dll
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C__Yaml_Parser.frmMain.resources
+C:\Users\moondem\source\repos\C# Yaml Parser\C# Yaml Parser\obj\Debug\net8.0-windows\C# Yaml Parser.sourcelink.json
